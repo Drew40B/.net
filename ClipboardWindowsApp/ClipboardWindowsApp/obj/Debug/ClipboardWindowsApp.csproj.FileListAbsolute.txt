@@ -1,0 +1,9 @@
+C:\Dev\git\Drew\dotNet\ClipboardWindowsApp\ClipboardWindowsApp\bin\Debug\ClipboardWindowsApp.exe.config
+C:\Dev\git\Drew\dotNet\ClipboardWindowsApp\ClipboardWindowsApp\bin\Debug\ClipboardWindowsApp.exe
+C:\Dev\git\Drew\dotNet\ClipboardWindowsApp\ClipboardWindowsApp\bin\Debug\ClipboardWindowsApp.pdb
+C:\Dev\git\Drew\dotNet\ClipboardWindowsApp\ClipboardWindowsApp\obj\Debug\ClipboardWindowsApp.csprojResolveAssemblyReference.cache
+C:\Dev\git\Drew\dotNet\ClipboardWindowsApp\ClipboardWindowsApp\obj\Debug\ClipboardWindowsApp.Properties.Resources.resources
+C:\Dev\git\Drew\dotNet\ClipboardWindowsApp\ClipboardWindowsApp\obj\Debug\ClipboardWindowsApp.csproj.GenerateResource.Cache
+C:\Dev\git\Drew\dotNet\ClipboardWindowsApp\ClipboardWindowsApp\obj\Debug\ClipboardWindowsApp.csproj.CoreCompileInputs.cache
+C:\Dev\git\Drew\dotNet\ClipboardWindowsApp\ClipboardWindowsApp\obj\Debug\ClipboardWindowsApp.exe
+C:\Dev\git\Drew\dotNet\ClipboardWindowsApp\ClipboardWindowsApp\obj\Debug\ClipboardWindowsApp.pdb

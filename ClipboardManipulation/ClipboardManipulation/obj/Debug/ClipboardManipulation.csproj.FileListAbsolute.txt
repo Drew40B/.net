@@ -1,0 +1,7 @@
+C:\Dev\git\Drew\dotNet\ClipboardManipulation\ClipboardManipulation\bin\Debug\ClipboardManipulation.exe.config
+C:\Dev\git\Drew\dotNet\ClipboardManipulation\ClipboardManipulation\bin\Debug\ClipboardManipulation.exe
+C:\Dev\git\Drew\dotNet\ClipboardManipulation\ClipboardManipulation\bin\Debug\ClipboardManipulation.pdb
+C:\Dev\git\Drew\dotNet\ClipboardManipulation\ClipboardManipulation\obj\Debug\ClipboardManipulation.csprojResolveAssemblyReference.cache
+C:\Dev\git\Drew\dotNet\ClipboardManipulation\ClipboardManipulation\obj\Debug\ClipboardManipulation.csproj.CoreCompileInputs.cache
+C:\Dev\git\Drew\dotNet\ClipboardManipulation\ClipboardManipulation\obj\Debug\ClipboardManipulation.exe
+C:\Dev\git\Drew\dotNet\ClipboardManipulation\ClipboardManipulation\obj\Debug\ClipboardManipulation.pdb
